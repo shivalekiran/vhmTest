@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-20T10:26:14Z" name="Default suite" finished-at="2020-11-20T10:26:58Z" duration-ms="44467">
+    <groups>
+    </groups>
+    <test started-at="2020-11-20T10:26:14Z" name="Default test" finished-at="2020-11-20T10:26:58Z" duration-ms="44467">
+      <class name="com.vhm.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.vhm.qa.testcases.LoginPageTest@5ab956d7]" started-at="2020-11-20T10:26:14Z" name="setUp" finished-at="2020-11-20T10:26:30Z" duration-ms="16431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="changeLanguage()[pri:1, instance:com.vhm.qa.testcases.LoginPageTest@5ab956d7]" started-at="2020-11-20T10:26:30Z" name="changeLanguage" finished-at="2020-11-20T10:26:32Z" duration-ms="1195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeLanguage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.vhm.qa.testcases.LoginPageTest@5ab956d7]" started-at="2020-11-20T10:26:32Z" name="tearDown" finished-at="2020-11-20T10:26:32Z" duration-ms="742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.vhm.qa.testcases.LoginPageTest@5ab956d7]" started-at="2020-11-20T10:26:32Z" name="setUp" finished-at="2020-11-20T10:26:46Z" duration-ms="13458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:2, instance:com.vhm.qa.testcases.LoginPageTest@5ab956d7]" started-at="2020-11-20T10:26:46Z" name="loginTest" finished-at="2020-11-20T10:26:58Z" duration-ms="11850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.vhm.qa.testcases.LoginPageTest@5ab956d7]" started-at="2020-11-20T10:26:58Z" name="tearDown" finished-at="2020-11-20T10:26:58Z" duration-ms="758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.vhm.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
